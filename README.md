@@ -8,7 +8,7 @@ It generates an effective rear connection with eval()
 ```
 
 ```
-Example: Insert target -> http://target.com/shell.php?cmd=
+Example: python bullback.py http://target.com/shell.php?cmd=
 ```
 
 There is not any documentation at the moment, but the code is really easy to understand.
